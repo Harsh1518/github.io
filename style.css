@@ -85,9 +85,8 @@ ruby,
 section,
 summary,
 time,
-mark,
-audio,
-video {
+mark
+{
     margin: 0;
     padding: 0;
     border: 0;
